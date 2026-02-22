@@ -1,1 +1,1 @@
-module.exports = { version: "1.0.0", name: "core", release: true };
+module.exports = { version: "1.0.1", name: "core", release: true, validate: true };
